@@ -1,0 +1,14 @@
+.slider{
+  width: 100%;
+  border: 1px solid;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+.slider .sliders{
+  position: relative;
+  width: 400%;
+}
+.slider .sliders img{
+  width: 25%;
+  float: left;
+}
